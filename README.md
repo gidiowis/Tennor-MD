@@ -65,5 +65,5 @@ The *Tennor-MD* is released under the [MIT License](https://opensource.org/licen
 
 Enjoy the diverse features of the *Tennor-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Giddy Tennor 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img [src=''/></a>](https://ibb.co/Jn24z80)
+<a><img [src=''/></a>](https://ibb.co/Jn24z80)
