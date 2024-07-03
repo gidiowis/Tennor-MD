@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 
 RUN git clone https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.git  /root/BmwMD
-WORKDIR /root/bmwmd/
+WORKDIR /root/tennormd/
 
 
 COPY package.json .
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "ibrahim.js"]
+CMD ["node", "giddy.js"]
