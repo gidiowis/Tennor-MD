@@ -35,7 +35,7 @@
 
 
 Star the repo up there then click Here To  [`FORK`](https://github.com/gidiowis/Tennor-MD/fork)
- TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Replit 
+ TAP DEPLOY.., AND DEPLOY IT ON HEROKU 
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  Tennor 𝙈𝘿
 
