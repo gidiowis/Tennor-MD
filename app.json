@@ -1,9 +1,9 @@
 {
-  "name":"PING-MD",
-  "description":"bot whatsapp developed by Mbuvi Tech",
+  "name":"Tennor-MD",
+  "description":"bot whatsapp developed by  Giddy Tennor",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
-  "repository":"https://github.com/cheekydavy/PING-MD",
+  "logo":"https://telegra.ph/file/6541780dd8ce59d74ec98.jpg",
+  "repository":"https://github.com/gidiowis/Tennor-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"PING-MD",
+      "value":"Tennor-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
+      "value":"https://telegra.ph/file/6541780dd8ce59d74ec98.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mbuvi Tech"
+    "value": " Giddy Tennor"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254746440595"
+    "value": "254104245659"
   },
     "WARN_COUNT":
   {
