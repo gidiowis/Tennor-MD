@@ -10,7 +10,7 @@ const yts1 = require("youtube-yts");
 france({
   nomCom: "play",
   categorie: "Search",
-  reaction: "🎧"
+  reaction: "🎤"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
      
@@ -36,7 +36,7 @@ france({
 
 
 
-*_Made by Mbuvi Tech._*`
+*_Made by Tennor Tech._*`
        }
 
       
@@ -109,7 +109,7 @@ france({
 
 
 
-*Made by Mbuvi Tech*\n\n`
+*Made by Tennor Tech*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
