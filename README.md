@@ -20,7 +20,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://tennor-scanner-9380dc7ea838.herokuapp.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://Tennor-MD-session-2396813cd301.herokuapp.com/pair)***
 
 
   
