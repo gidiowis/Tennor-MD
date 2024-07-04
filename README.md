@@ -20,7 +20,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://Tennor-MD-session.onrender.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://the-Tennor-MD-sessions.onrender.com/pair)***
 
 
   
