@@ -44,7 +44,7 @@ Star the repo up there then click Here To  [`FORK`](https://github.com/gidiowis/
 
  <h1 align="center">
 
-   ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/gidiowis/Tennor -MD&template=https://github.com/gidiowis /Tennor-MD.git)***
+   ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/gidiohttps://dashboard.heroku.com/new?button-url=https://github.com/gidiowis/tennor-MD&template=https://github.com/gidiowis/tennor-MD.git)***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
