@@ -55,7 +55,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "🧔" }, async (dest,
   }
 });
 
-france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "developer", categorie: "General", reaction: "🌚" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
@@ -64,7 +64,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (d
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Yezaa 👊\n *Welcome to Tennor-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Tennor Tech_*\n*◇AGE: 19*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://www.instagram.com/giddy_owis_?igsh=YzZ0NDRoaXFxM2Zkn*◇Twitter: https://twitter.com/cheeky_pythooz*\n\n______________________________\n\n*🚖KEEP USING Tennor-MD🚖*\n\n\n_The following are my contacts_:\n:";
+    let message = "Yezaa 😁\n *Welcome to Tennor-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Tennor Tech_*\n*◇AGE: 19*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://www.instagram.com/giddy_owis_?igsh=YzZ0NDRoaXFxM2Zkn*◇Twitter: https://twitter.com/cheeky_pythooz*\n\n______________________________\n\n*🚖KEEP USING Tennor-MD🚖*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
