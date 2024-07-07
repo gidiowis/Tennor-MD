@@ -1,4 +1,4 @@
-const {
+inconst {
   pnix,
   isPrivate,
   getBuffer
@@ -11,11 +11,11 @@ pnix({
   const _0x554062 = await getBuffer("https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg");
   const _0x19f988 = {
     'title': "I'm Alive Now",
-    'body': "MBUVI-MD",
+    'body': "Tennor-MD",
     'thumbnail': _0x554062,
     'mediaType': 0x1,
     'mediaUrl': "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
-    'sourceUrl': "https://github.com/cheekydavy/Ping-MD",
+    'sourceUrl': "https://github.com/cheekydavy/Tennor-MD",
     'showAdAttribution': false,
     'renderLargerThumbnail': false
   };
