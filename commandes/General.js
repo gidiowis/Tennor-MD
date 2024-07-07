@@ -60,7 +60,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🌚" }, async (d
 
     const devs = [
       { nom: "France King", numero: "254746440595" },
-      { nom: "᚛Tennor TECH᚜", numero: "254710772666" },
+      { nom: "᚛Tennor TECH᚜", numero: "254104245659" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
