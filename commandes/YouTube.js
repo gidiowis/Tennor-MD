@@ -29,7 +29,7 @@ france({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `*MBUVI-MD SONG'S*\n\n*Title:* ${videos[0].title}
+         caption : `*Tennor-MD SONG'S*\n\n*Title:* ${videos[0].title}
          
 *Duration:* ${videos[0].timestamp}
 *Song Url:* ${videos[0].url}
@@ -84,7 +84,7 @@ france({
 france({
   nomCom: "video",
   categorie: "Search",
-  reaction: "🎞"
+  reaction: "🌠"
 }, async (origineMessage, zk, commandeOptions) => {
   const { arg, ms, repondre } = commandeOptions;
 
@@ -103,7 +103,7 @@ france({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*MBUVI-MD VIDEO'S*\n\n*Title :* ${Element.title}
+        caption: `*Tennor-MD VIDEO'S*\n\n*Title :* ${Element.title}
 *Duration :* ${Element.timestamp}
 *Video Url:* ${Element.url}
 
@@ -130,7 +130,7 @@ france({
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*MBUVI-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*Tennor-MD*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
