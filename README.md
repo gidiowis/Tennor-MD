@@ -20,11 +20,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://Tennor-Md-qr-generater.onrender.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://ultrazy-53593a853dec.herokuapp.com/)***
 
 
   
- [QR] ***[`TAP HERE TO SCAN QR`](https://Tennor-Md-qr-generater.onrender.com/pair)***
+ [QR] ***[`TAP HERE TO SCAN QR`](https://ultrazy-53593a853dec.herokuapp.com/)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
